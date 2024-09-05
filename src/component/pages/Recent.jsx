@@ -19,9 +19,7 @@ const App = () => {
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-6">
         {/* Card 1 */}
-        <div
-          className="bg-white  shadow-md overflow-hidden"
-        >
+        <div className="bg-white  shadow-md overflow-hidden">
           <div className="h-60 bg-gray-300"></div>
           <div className="p-4">
             <p className="text-xs text-gray-500 mb-2">Jan 24, 2022</p>

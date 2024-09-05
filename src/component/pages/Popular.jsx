@@ -59,20 +59,19 @@ const App = () => {
         </div>
 
         {/* Second Row (3 columns on large screens) */}
-        < div className="relative shadow-md overflow-hidden">
-        <div className="h-32 bg-gray-200"></div>
+        <div className="relative shadow-md overflow-hidden">
+          <div className="h-32 bg-gray-200"></div>
 
-        <div className="absolute inset-0 p-4 flex items-center justify-center"></div>
-            <div className=" bg-opacity-100 p-4 ">
-              <h2 className="text-lg font-bold mb-2">
-                Refreshing the legacy dayforce employee profile
-              </h2>
-              <p className="text-sm text-gray-600">
-                On the other hand, we denounce with righteous indignation and
-                dislike men who are so beguiled.
-              </p>
-            </div>
-        
+          <div className="absolute inset-0 p-4 flex items-center justify-center"></div>
+          <div className=" bg-opacity-100 p-4 ">
+            <h2 className="text-lg font-bold mb-2">
+              Refreshing the legacy dayforce employee profile
+            </h2>
+            <p className="text-sm text-gray-600">
+              On the other hand, we denounce with righteous indignation and
+              dislike men who are so beguiled.
+            </p>
+          </div>
         </div>
 
         <div
